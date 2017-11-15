@@ -23,7 +23,7 @@ At some point, it will become necessary for the calendar to expand as critical m
 
 #### Company Holidays: Office Closed
 
-**remainder of 2017**
+**remainder of 2017** </br>
 11/22-11/24	Thanksgiving </br>
 12/24-1/2	Christmas/ New Year
 
