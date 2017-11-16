@@ -42,7 +42,7 @@ At some point, it will become necessary for the calendar to expand as critical m
 
 #### Additional Considerations
 
-* We will not host physically demanding events or daytime, food-based events during the month of Eid.	
+* We will not host physically demanding events or daytime, food-based events during the month of Ramadan.	
 
 * We will not host evening events during Rosh Hashanah and Yom Kippur.
 
